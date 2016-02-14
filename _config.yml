@@ -1,0 +1,14 @@
+layout_spectrum: 0.7663802
+typography_spectrum: 0.5504833
+color:
+  saturation: 0.1333088
+  lightness: 0.8061459
+  brandStrength: 0.7481203
+  brandColors:
+    - '#89BCFF'
+    - '#040603'
+    - '#897642'
+    - '#4B78AB'
+    - '#B3B402'
+  rhythmicContrast: 0.1191288
+name: 'Startupdisrupt '
