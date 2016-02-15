@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Startupdisrupt ]]></title>
         <description><![CDATA[Startupdisrupt ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/startupdisrupt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 23:13:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 20:39:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/startupdisrupt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best advice ]]></title>
+            <description><![CDATA[<article><h1>Best advice </h1><p>Last fall, we overheard that Twitter Engineering Director David Loftesness had some solid wisdom about training newly-minted engineering managers - an often precarious transition. So we sat down with him to see what tips he had to offer, and we were blown away.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/567a4a882a7fe086e0f80bdc0e90e34b2a917997.jpg"></article>]]></description>
+            <link>https://thegrid.ai/startupdisrupt/best-advice/index.html</link>
+            <guid isPermaLink="false">cc2a591f-258d-4006-9b5b-a23127c08800</guid>
+            <pubDate>Mon, 15 Feb 2016 20:39:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Just seeing how this works]]></title>
             <description><![CDATA[<h1>Just seeing how this works</h1>]]></description>
-            <link>undefinedjust-seeing-how-this-works/index.html</link>
+            <link>https://thegrid.ai/startupdisrupt/just-seeing-how-this-works/index.html</link>
             <guid isPermaLink="false">52581ae4-84dd-4128-ad92-45a249387449</guid>
             <pubDate>Sun, 14 Feb 2016 23:13:16 GMT</pubDate>
         </item>
