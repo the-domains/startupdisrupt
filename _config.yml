@@ -1,26 +1,26 @@
-color:
-  saturation: 0.1333088
-  brandStrength: 0.7481203
-  rhythmicContrast: 0.1191288
-  brandColors:
-    - '#89BCFF'
-    - '#040603'
-    - '#897642'
-    - '#4B78AB'
-    - '#B3B402'
-  lightness: 0.8061459
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.7663802
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.1333088
+  brandStrength: 0.4860365
+  lightness: 0.8061459
+  brandColors:
+    - '#000000'
+    - '#6D6E70'
+    - '#B60823'
+    - '#009842'
+    - '#FFDD15'
+  rhythmicContrast: 0.1191288
 typography_spectrum: 0.5504833
+layout_spectrum: 0.7663802
 name: 'Startupdisrupt '
